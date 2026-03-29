@@ -1,5 +1,5 @@
 """
-AI Smart Farmer Assistant – Flask Backend (Final Optimized Version)
+AI Smart Farmer Assistant – Flask Backend
 """
 
 import os
