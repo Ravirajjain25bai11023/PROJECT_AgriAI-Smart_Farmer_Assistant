@@ -236,7 +236,8 @@ http://localhost:8080
 
 ### 🤖 AI Prediction Result
 
-![Prediction](project/screenshots/result.png)
+![Prediction](project/screenshots/result_1.png)
+![Prediction](project/screenshots/result_2.png)
 
 ---
 
