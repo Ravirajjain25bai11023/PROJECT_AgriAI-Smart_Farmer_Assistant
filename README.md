@@ -230,30 +230,26 @@ http://localhost:8080
 ### 📤 Uploading Leaf Image
 
 ![Upload](project/screenshots/upload_1.png)
+![Upload](project/screenshots/upload_2.png)
 
 ---
 
 ### 🤖 AI Prediction Result
 
-![Prediction](screenshots/result.png)
+![Prediction](project/screenshots/result.png)
 
 ---
 
 ### 🌐 Hindi Language Mode
 
-![Hindi Mode](screenshots/hindi.png)
-
----
-
-### 🗂️ Prediction History
-
-![History](screenshots/history.png)
+![Hindi Mode](project/screenshots/hindi_1.png)
+![Hindi Mode](project/screenshots/hindi_2.png)
 
 ---
 
 ### ⚙️ Backend Running (Flask Server)
 
-![Backend](screenshots/backend.png)
+![Backend](project/screenshots/backend.png)
 
 ---
 
