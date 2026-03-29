@@ -223,7 +223,7 @@ http://localhost:8080
 
 ### 🏠 Home Interface
 
-![Home UI](screenshots/home.png)
+![Home UI](project/screenshots/home.png)
 
 ---
 
