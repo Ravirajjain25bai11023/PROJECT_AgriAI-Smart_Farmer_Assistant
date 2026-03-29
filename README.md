@@ -229,7 +229,7 @@ http://localhost:8080
 
 ### 📤 Uploading Leaf Image
 
-![Upload](screenshots/upload.png)
+![Upload](project/screenshots/upload_1.png)
 
 ---
 
