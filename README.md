@@ -219,6 +219,41 @@ http://localhost:8080
   "treatment": ["Use fungicide", "Remove infected leaves"]
 }
 ```
+## 📸 Working Screenshots
+
+### 🏠 Home Interface
+
+![Home UI](screenshots/home.png)
+
+---
+
+### 📤 Uploading Leaf Image
+
+![Upload](screenshots/upload.png)
+
+---
+
+### 🤖 AI Prediction Result
+
+![Prediction](screenshots/result.png)
+
+---
+
+### 🌐 Hindi Language Mode
+
+![Hindi Mode](screenshots/hindi.png)
+
+---
+
+### 🗂️ Prediction History
+
+![History](screenshots/history.png)
+
+---
+
+### ⚙️ Backend Running (Flask Server)
+
+![Backend](screenshots/backend.png)
 
 ---
 
