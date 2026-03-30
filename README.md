@@ -300,7 +300,7 @@ This project successfully demonstrates how Artificial Intelligence can be used t
 ## 👨‍💻 Author
 
 **Raviraj Jain**
-Entrepreneur | AI Developer | Guinness World Record Holder
+Entrepreneur | AI Learner - Developer | Guinness World Records Holder
 
 ---
 
